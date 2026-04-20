@@ -6,7 +6,7 @@
 </p>
 
 ## Resources  
-- 📊 [Dashboard (Tableau)](https://public.tableau.com/app/profile/bintang.ary.pradana/viz/OlistBrazilianMarketplace/Story)  
+- 📊 [Dashboard](https://public.tableau.com/app/profile/bintang.ary.pradana/viz/OlistBrazilianMarketplace/Story)  
 - 📄 [Requirement Document](https://docs.google.com/document/d/1ZAa2Juzio7753Twf4ID3-3NFw30kwiTcw92adCSISyo/edit?usp=sharing)  
 
 ## Project Overview
