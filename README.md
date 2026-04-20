@@ -9,7 +9,7 @@
 - 📊 [Dashboard (Tableau)](https://public.tableau.com/app/profile/bintang.ary.pradana/viz/OlistBrazilianMarketplace/Story)  
 - 📄 [Requirement Document](https://docs.google.com/document/d/1ZAa2Juzio7753Twf4ID3-3NFw30kwiTcw92adCSISyo/edit?usp=sharing)  
 
-**Project Overview:**  
+## Project Overview:  
 This project was developed for **Olist**, a Brazilian marketplace, to centralize fragmented business insights into a single interactive dashboard.
 
 As a **BI Analyst**, I designed a Tableau dashboard to monitor **revenue performance, customer behavior, and delivery operations**, enabling management and operations teams to make faster and more data-driven decisions.
